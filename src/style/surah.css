@@ -1,0 +1,79 @@
+span {
+    color: 	darkslategrey;
+  }
+  .surah {
+    position: relative;
+    padding: 0px 35px;
+  
+    min-height: 100vh;
+    color: black;
+  }
+  .row {
+    display: flex;
+  }
+  .column {
+    float: left;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .left {
+    width: 35%;
+    font-size: 24px;
+  }
+  
+  .right {
+    width: 75%;
+    font-size: 30px;
+    font-weight: normal;
+    display: flex;
+    justify-content: right;
+    justify-items: right;
+  }
+  li {
+    margin: 20px 0px 10px 0px;
+  }
+  
+  .btn {
+    width: 50%;
+    height: 40px;
+    margin-left: 25%;
+  }
+  .btn.btn-primary {
+    background-color: darkslategrey;
+    border-color: black;
+    outline: none;
+    cursor: pointer;
+  }
+  .btn:active {
+    background-color: #98b0a3;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .btn.btn-primary:hover {
+    background-color: darken(white, 10%);
+    border-color: darken(white, 10%);
+  }
+  .btn.btn-primary:active,
+  .btn.btn-primary:focus {
+    background-color: lighten(#ffffff, 5%);
+    border-color: lighten(#ffffff, 5%);
+  }
+  .btn.btn-primary .fa {
+    padding: 0px;
+
+  }
+  
+  .btn-sm {
+    font-size: 22px;
+    line-height: 0px;
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  h3 {
+    color:#98b0a3;
+  }
