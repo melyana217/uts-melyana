@@ -180,7 +180,7 @@ const router = createRouter({
     {
       path: "/Alasr",
       name: "Alasr",
-      component: () => import( "../views/AlasrView.vue")
+      component: () => import( "../views/AlAsrView.vue")
     },
     {
       path: "/Alhumazah",

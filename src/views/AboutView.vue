@@ -25,13 +25,13 @@
   </div>
 
   <div class="w3-third">
-    <a class="social-media-icon" href="https://www.instagram.com/mella.arfnn/"><span class="fab fa-instagram"> Instagram</span></a>
+    <a class="social-media-icon" href="https://www.instagram.com/melyana_hasibuan/"><span class="fab fa-instagram"> Instagram</span></a>
     <a class="social-media-icon" href="https://link_social_mendia_anda"><span class="fab fa-whatsapp"> whatsapp</span></a>
     <a class="social-media-icon" href="https://link_social_mendia_anda"><span class="fab fa-facebook"> Facebook</span></a>
     <a class="social-media-icon" href="https://www.youtube.com/channel/UCPaqH3PLNfkphsuHT7WLbCw"><span class="fab fa-youtube"> Youtube</span></a>
   </div>
 
-  <h6>Mella Arfina</h6>
+  <h6>Melyana Hasibuan</h6>
 </template>
 
 <style>
